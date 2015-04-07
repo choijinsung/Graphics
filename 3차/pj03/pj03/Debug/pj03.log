@@ -1,0 +1,17 @@
+﻿빌드 시작: 2014-06-22 오후 11:29:01
+     1>2 노드의 "C:\Users\choi\Desktop\동영상\kmu\2014\컴퓨터그래픽스\4. 설계과제\3차\pj03\pj03\pj03.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\pj03.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         모든 출력이 최신 상태입니다.
+         pj03.vcxproj -> C:\Users\choi\Desktop\동영상\kmu\2014\컴퓨터그래픽스\4. 설계과제\3차\pj03\Debug\pj03.exe
+       FinalizeBuildStatus:
+         "Debug\pj03.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\pj03.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\choi\Desktop\동영상\kmu\2014\컴퓨터그래픽스\4. 설계과제\3차\pj03\pj03\pj03.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.92
